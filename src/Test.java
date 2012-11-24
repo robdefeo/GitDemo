@@ -9,4 +9,8 @@ public class Test {
     private void something(int a) {
         String a = "hell";
     }
+
+    private String somethingElse(){
+        return "somtingelse";
+    }
 }
