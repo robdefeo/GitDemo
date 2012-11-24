@@ -5,4 +5,8 @@
  * Time: 21:05
  */
 public class Test {
+
+    private void something(int a) {
+        String a = "hell";
+    }
 }
